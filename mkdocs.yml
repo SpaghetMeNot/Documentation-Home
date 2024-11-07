@@ -55,7 +55,3 @@ extra:
       link: https://x.com/SpaghetMeN0t
     - icon: simple/youtube
       link: https://www.youtube.com/@SpaghetMeNot
-
-plugins:
-  - search
-  - awesome-pages
