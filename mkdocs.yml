@@ -1,5 +1,5 @@
 site_name: Spaghetools Docs
-site_url: https://something.example
+site_url: https://spaghetmenot.github.io/Documentation/
 theme:
   name: material
   font:
