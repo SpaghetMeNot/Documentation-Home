@@ -43,7 +43,6 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
-  # - pymdownx.blocks.caption
 
 extra:
   social:
@@ -55,3 +54,7 @@ extra:
       link: https://x.com/SpaghetMeN0t
     - icon: simple/youtube
       link: https://www.youtube.com/@SpaghetMeNot
+
+plugins:
+  - search
+  - awesome-pages
