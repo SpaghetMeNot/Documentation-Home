@@ -1,3 +1,4 @@
 nav:
+    - Overview: overview.md
     - Install: install.md
     - ...
