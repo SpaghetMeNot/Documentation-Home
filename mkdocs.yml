@@ -7,8 +7,8 @@ theme:
     code: Red Hat Mono
   logo: assets\profile.png
   favicon: assets\profile.png
-  # features:
-  #   - navigation.footer
+  features:
+    - navigation.tracking
   palette:  
   # Dark Mode
     - scheme: slate

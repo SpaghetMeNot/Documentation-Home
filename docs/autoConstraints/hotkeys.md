@@ -46,3 +46,5 @@ If you wish to set up all the keymaps manually you can turn off the automatic ke
 You can then manually set up hotkeys for each autoConstraints operator.
 
 For a quick reference of all the operators there is a sidebar panel you can enble that has a button for each operator. Simply turn on "Show Operator Button Sidebar" in the advanced section of the add-on preferences.
+
+![Manual Keymap](assets/manual_keymap.webp)
