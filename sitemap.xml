@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://spaghetmenot.github.io/documentation/</loc>
+         <lastmod>2024-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://spaghetmenot.github.io/documentation/content_tabs/</loc>
+         <lastmod>2024-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://spaghetmenot.github.io/documentation/autoConstraints/hotkeys/</loc>
+         <lastmod>2024-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://spaghetmenot.github.io/documentation/autoConstraints/install/</loc>
+         <lastmod>2024-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://spaghetmenot.github.io/documentation/autoConstraints/overview/</loc>
+         <lastmod>2024-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://spaghetmenot.github.io/documentation/autoConstraints/using_autoConstraints/</loc>
+         <lastmod>2024-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://spaghetmenot.github.io/documentation/uvProject/install/</loc>
+         <lastmod>2024-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://spaghetmenot.github.io/documentation/uvProject/overview/</loc>
+         <lastmod>2024-11-10</lastmod>
+    </url>
+</urlset>
