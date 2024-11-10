@@ -1,7 +1,5 @@
 # Welcome to my home
-My name is hello there
-
-For full documentation visit my face
+Spaghetools Docs new home!
 
 ## Commands
 
